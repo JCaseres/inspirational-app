@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { nanoid } from 'nanoid';
 import Search from "./components/Search";
 import Header from "./components/Header";
+import Weather from "./components/WeatherApi";
 
 const App = () => {
 
@@ -71,7 +72,11 @@ const App = () => {
           handleAddNote={addNote}
           handleDeleteNote={deleteNote}
         />
+        <br></br>
+        <Weather />
+        
       </div>
+      
     </div>
   )
 };

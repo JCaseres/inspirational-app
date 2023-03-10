@@ -8,7 +8,8 @@ const Search = ({ handleSearchNote }) => {
             <input 
                 type="text" 
                 placeholder="Search Notes..." 
-                onChange={(event) => handleSearchNote(event.target.value)} 
+                onChange={(event) => handleSearchNote(event.target.value)}
+                className='note-search-text'
             />
         </div>
     )
