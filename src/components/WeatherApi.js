@@ -45,7 +45,7 @@ const Weather = () => {
                     </div>
                 </div>
                 
-                {data.name != undefined &&
+                {data.name !== undefined &&
                 <div className='weather-bottom'>
                     <div className='feels'>
                         {data.main ? <h2 className='bold'>{data.main.feels_like.toFixed()} ℉</h2> : null}
