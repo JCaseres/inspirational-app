@@ -74,7 +74,6 @@ const App = () => {
         />
         <br></br>
         <Weather />
-        
       </div>
       
     </div>

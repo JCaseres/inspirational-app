@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./assets/snow_view.jpg') no-repeat center center/cover;
 }
 
 code {
@@ -16,10 +17,11 @@ code {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  color: #e1e1e1;
 }
 
 .dark-mode {
-  background-color: rgb(36, 35, 35);
+  background-image: url(./assets/beach1.jpg);
 }
 
 .dark-mode h1 {
