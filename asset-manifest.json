@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/inspirational-app/static/css/main.f14c690d.css",
+    "main.js": "/inspirational-app/static/js/main.d1b7cb2b.js",
+    "static/media/snow_view.jpg": "/inspirational-app/static/media/snow_view.1830229b2a594d5d6bf3.jpg",
+    "static/media/beach1.jpg": "/inspirational-app/static/media/beach1.f9e4ae7c07ca56907821.jpg",
+    "static/media/weather_image.jpg": "/inspirational-app/static/media/weather_image.2a35446e8bc313c0b0f7.jpg",
+    "index.html": "/inspirational-app/index.html",
+    "main.f14c690d.css.map": "/inspirational-app/static/css/main.f14c690d.css.map",
+    "main.d1b7cb2b.js.map": "/inspirational-app/static/js/main.d1b7cb2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14c690d.css",
+    "static/js/main.d1b7cb2b.js"
+  ]
+}
